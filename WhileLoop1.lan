@@ -1,0 +1,6 @@
+
+create a string named sX = "yes"
+while sX == "yes" then
+print "true"
+set sX to "no".
+

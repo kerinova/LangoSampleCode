@@ -1,0 +1,12 @@
+
+create a list of integer named liX with 5
+write "do liX.size"
+do liX.add with 6
+write "do liX.size"
+write "do liX.get with 1"
+write "do liX.get with 0"
+do liX.prepend with 4
+write "do liX.size"
+write "do liX.get with 0"
+write "do liX.index of with 5"
+Save "C:\Users\xeong\Desktop\LangoTests\GetListIntMethodFunctionCodeOut"

@@ -1,0 +1,7 @@
+
+create a new string named sX = "Hello"
+write "Do sX.Size"
+create a new int named iX = 5
+Set iX = Do sX.Size
+write "5 + Do sX.Size"
+Save "C:\Users\xeong\Desktop\LangoTests\GetStringSizeFunctionCodeOut"

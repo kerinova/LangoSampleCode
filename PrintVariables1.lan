@@ -1,0 +1,4 @@
+
+create string named sX = "Xeon"
+write "isXi"
+write "sX"

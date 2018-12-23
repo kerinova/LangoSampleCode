@@ -1,0 +1,4 @@
+
+create int named iX = 2
+if iX == 4 then
+write "iX".

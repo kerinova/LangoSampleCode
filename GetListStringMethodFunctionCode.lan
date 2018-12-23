@@ -1,0 +1,11 @@
+
+create a list of strings named lsX with "a"
+write "do lsX.size"
+do lsX.add with "b"
+write "do lsX.size"
+write "do lsX.get with 1"
+write "do lsX.get with 0"
+do lsX.prepend with "c"
+write "do lsX.size"
+write "do lsX.get with 0"
+write "do lsX.index of with "a""

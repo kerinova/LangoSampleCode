@@ -1,0 +1,7 @@
+
+create a list of string named lSX with "a", "b", "c", "d", "e"
+create an int named iX = 0
+create an int named iY = 5
+for iX to iY:
+print "iX",
+print "Do lSX.get with iX ".

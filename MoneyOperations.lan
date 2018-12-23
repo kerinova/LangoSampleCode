@@ -1,0 +1,4 @@
+
+create money named mX = 4.23
+create money named mY = 2.39
+write "mX + mY"

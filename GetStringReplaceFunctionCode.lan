@@ -1,0 +1,20 @@
+
+create a new string named sX = "hello xeon"
+create a new string named sQ = "ello"
+create a new string named sW = "nono"
+create a new string named rQ = do sX.replace with "ello" and "nono"
+create a new string named rW = do sX.replace with "ello", "nono"
+create a new string named rE = do sX.replace with "ello", sW
+create a new string named rR = do sX.replace with "ello" and sW
+create a new string named rT = do sX.replace with sQ, "nono"
+create a new string named rY = do sX.replace with sQ and "nono"
+create a new string named rU = do sX.replace with sQ and sW
+create a new string named rI = do sX.replace with sQ, sW
+write "rQ"
+write "rW"
+write "rE"
+write "rR"
+write "rT"
+write "rY"
+write "rU"
+write "rI"

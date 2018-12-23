@@ -1,0 +1,10 @@
+
+create int named iX = 4
+create int named iY = 2
+create number named iZ = 4.3
+write "5 + 2 - 4 * (2 ^ 4)"
+write "5 + iY - iX * (2 ^ 4)"
+write "5 + 2 - 4.3 * (2^4)"
+write "5 + iY - iZ * (2^iX)"
+write "-3 + 2"
+write "0 - 3 + 2"

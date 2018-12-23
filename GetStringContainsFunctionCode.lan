@@ -1,0 +1,10 @@
+
+create a new string named sX = "Grace"
+write "Do sX.contains with "ace""
+create a new string named sY = "ra"
+write "Do sX.contains with sY"
+if Do sX.contains with sY then
+Write "Yes!".
+if Do sX.contains with "ra" then
+write "YESSS!".
+Save "C:\Users\xeong\Desktop\LangoTests\GetStringContainsFunctionCodeOut"

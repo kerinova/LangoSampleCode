@@ -1,0 +1,11 @@
+
+Create a function named fX with int myInt, string myString to:
+Write "myInt and myString"
+Set myInt to 5
+Set myString to "Test"
+Write "myInt and myString".
+
+Create an int named iX = 4
+Create a string named sX = "Hello World!"
+Do fX with iX, sX
+Write "iX and sX";

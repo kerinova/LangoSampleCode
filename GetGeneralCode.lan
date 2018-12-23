@@ -1,0 +1,11 @@
+Write "Hello".
+create a new int named iX = 5
+create a new string named sX = "Hello!"
+create a new float named flX = 1.0
+create a new bool named bX = true
+create a new bool named bY = "True"
+create a new number named flY = 1.2
+create a new money named mX = 1.02
+create a bool named bZ = bX
+write "iX - sX - flX - bX - bY - flY - mX - bZ"
+Save "C:\Users\xeong\Desktop\LangoTests\GetGeneralCodeOut"

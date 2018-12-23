@@ -1,0 +1,16 @@
+
+Create a function named fX to:
+	Create a int named iX = 6
+	Write "iX".
+Do fX
+write "iX"
+
+Create a class named cX to:
+    Create a function named foX to:
+        Create a int named ioX = 5
+		Write "ioX"..
+Create a cX named myCX.
+Do myCX's foX
+Do foX
+Write "ioX"
+Save "C:\Users\xeong\Desktop\LangoTests\GetScopeCodeOut"

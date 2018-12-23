@@ -1,0 +1,15 @@
+
+if 5 > 6 && 6 < 7 then
+write "x".
+if 6 > 5 && 6 < 7 then
+write "x".
+if 5 > 6 && 6 < 7,
+write "x".
+if 5 > 6 || 8 > 7 && 4 > 2 then
+write "x".
+if 5 > 6 || 4 > 7 && 4 > 2 then
+write "x".
+while 5 > 6 && 6 < 7 then
+write "x".
+while 6 > 5 && 6 < 7 then
+write "x".

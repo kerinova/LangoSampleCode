@@ -1,0 +1,5 @@
+
+create an int named iX = 1
+create an int named iEnd = 9
+for iX to iEnd:
+write "iX".

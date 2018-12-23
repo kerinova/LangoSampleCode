@@ -1,0 +1,17 @@
+Create public int named iX = 1
+Create string named sX = "Hello."
+Write "iX"
+Write "sX"
+Create a function named fX to:
+    Write "iX"
+    Write "sX"
+    Create an int named iY = 2
+    Write "iY"
+    Create a public int named iZ = 3
+    Write "iZ".
+Write "iY"
+Write "iZ"
+Do fX
+Write "iY"
+Write "iZ"
+Save "C:\Users\xeong\Desktop\LangoTests\GetScopeCode2Out"

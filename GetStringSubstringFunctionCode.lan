@@ -1,0 +1,8 @@
+
+create a new string named sX = "hello xeon"
+create a new string named sY = Do sX.substring with 3 and 5
+write "sX"
+write "sY"
+create a new int named iX = 5
+create a new string named sZ = Do sX.substring with 3 and iX
+write "sZ"

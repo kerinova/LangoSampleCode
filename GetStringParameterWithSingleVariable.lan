@@ -1,0 +1,4 @@
+
+create a string named sX = "Hello"
+create a string named sY = "llo"
+write "Do sX.contains with sY"

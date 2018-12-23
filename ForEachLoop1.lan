@@ -1,0 +1,4 @@
+
+create a list of string named lSX with "a", "b", "c", "d", "e"
+for each str in lSX:
+write "str".

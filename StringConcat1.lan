@@ -1,0 +1,8 @@
+
+create string named sX = "Grace"
+create string named sY = "Xeon"
+create string named sW = "5"
+write "sW + sX + sY"
+create string named sZ = sX + sY + sW
+write "sZ"
+write "Hello, I am writing sX + sY"

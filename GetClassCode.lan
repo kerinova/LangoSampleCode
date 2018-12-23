@@ -1,0 +1,9 @@
+
+Create a class named classX to:
+    Create an int named iX = 4
+    Create a function named fX to:
+        Write "iX".
+    .
+Create a classX named myX.
+Do myX.fX
+Do myX's fX

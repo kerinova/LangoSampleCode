@@ -1,0 +1,5 @@
+
+create a new string named sX = "hello"
+write "do sX.index of with "el""
+create a new int named iX = do sX.index of with "el"
+write "iX"

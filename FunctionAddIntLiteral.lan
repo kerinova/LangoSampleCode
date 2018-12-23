@@ -1,0 +1,8 @@
+
+create a function named fX with int myVar and int myOtherVar to:
+write "myVar + myOtherVar"
+write "done".
+do fX with 5 and 6
+create an int named iX = 4
+create an int named iY = 6
+do fX with 4 and 6
