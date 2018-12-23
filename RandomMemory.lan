@@ -1,0 +1,4 @@
+create a list of string named ourMemories = do file.readlines with "C:\Users\xeong\Desktop\MemoriesData.txt"
+create an int named totalMemories = Do ourMemories.size
+create an int named memoryNumber = random number from 0 to totalMemories
+print "Do ourMemories.get with memoryNumber".

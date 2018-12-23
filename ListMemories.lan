@@ -1,0 +1,5 @@
+create a function named displayAll to:
+	create a list of string named ourMemories = do file.readlines with "C:\Users\xeong\Desktop\MemoriesData.txt"
+	for each memory in ourMemories:
+		print "memory".
+do displayAll

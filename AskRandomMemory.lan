@@ -1,0 +1,10 @@
+create a list of string named ourMemories = do file.readlines with "C:\Users\xeong\Desktop\MemoriesData.txt"
+create an int named totalMemories = Do ourMemories.size
+create an int named memoryNumber = random number from 0 to totalMemories
+
+create a string named sX = "yes"
+
+while sX == "yes" then
+	write "Do ourMemories.get with memoryNumber"
+	set memoryNumber = random number from 0 to totalMemories
+	set sX to ask "continue? ".
